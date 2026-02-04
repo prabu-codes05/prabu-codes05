@@ -15,7 +15,7 @@
 
 
 ---
-## 🛠 Tech Stack (Weapons of Choice)
+## 🛠 Tech Stack
 <p>
   <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5"/>
   <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3"/>
@@ -36,7 +36,6 @@
 ---
 
 ## 🚀 Featured Projects
-> *(Add real projects here — even small ones matter)*
 
 - 🔹 **Portfolio Website** – HTML, CSS, JavaScript  
 - 🔹 **React Todo App** – React, Hooks  
