@@ -11,7 +11,7 @@
 - 🎓 IT student who likes seeing ideas turn into screens  
 - 💻 Frontend developer (yes, CSS sometimes hurts 😅)  
 - ⚛️ Currently learning React by building small things that slowly get better  
-- 🎯 Goal: learn properly, ship projects, and earn my first frontend role
+- 🎯 Goal: learn properly, ship projects, and earn experience
 
 
 ---
@@ -35,8 +35,16 @@
 
 ---
 
+## 🚀 Featured Projects
+> *(Add real projects here — even small ones matter)*
 
-## 📊 GitHub Reality Check
+- 🔹 **Portfolio Website** – HTML, CSS, JavaScript  
+- 🔹 **React Todo App** – React, Hooks  
+- 🔹 **Landing Page** – Responsive Design
+    
+---
+
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Prabu-codes05&show_icons=true&theme=tokyonight" />
 </p>
@@ -47,5 +55,5 @@
 
 ---
 
-## 👀 Someone definitely clicked around here
+## 👀 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=Prabu-codes05&color=blue)
