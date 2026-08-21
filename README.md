@@ -10,7 +10,7 @@
 ## 👨‍💻 About Me
 - 🎓 IT student who likes seeing ideas turn into screens  
 - 💻 Frontend developer (yes, CSS sometimes hurts 😅)  
-- ⚛️ Currently learning React by building small things that slowly get better  
+- ⚛️ Currently learning NodeJS by building small things that slowly get better  
 - 🎯 Goal: learn properly, ship projects, and earn experience
 
 
